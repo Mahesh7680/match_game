@@ -1,0 +1,20 @@
+.app-logo-container {
+  text-align: center;
+  list-style: none;
+}
+.image-element {
+  height: 80px;
+  width: 80px;
+  border-radius: 5px;
+}
+li {
+  list-style: none;
+}
+button {
+  color: #ffffff;
+}
+.button-hileghter {
+  color: orange;
+  padding-bottom: 10px;
+  border-bottom: 2px solid orange;
+}
